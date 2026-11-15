@@ -13,7 +13,7 @@ A small reader that gives each sentence one mark:
 
 aadha only marks. It writes nothing. Code, not the model, decides what the marks mean for a piece of writing. In *teetar aadhi bater*, the tool built on it, the page shows how the marks are spread across the piece. Its name is from the Hindi idiom *aadha teetar aadha bater*, half partridge, half quail: a thing that is neither one thing nor the other.
 
-It is an NSMnum (Narrow Small Model, said en-ess-em-num, एन-एस-एम-नम; written NSM until 15 November 2026, when the short form was changed to avoid a collision with the Natural Semantic Metalanguage in linguistics). What is narrow is its answer, which is always one of four marks; the model's own size does not decide it. It is an exemplar in [ungli](https://ungli.syntax.prayasabhinav.net), the builder for NSMnum, and part of [SYNTAX](https://syntax.prayasabhinav.net).
+It is an NSMnum (Narrow Small Model, numeric, said en-ess-em-num, एन-एस-एम-नम; written NSM until 15 November 2026, when the short form was changed to avoid a collision with the Natural Semantic Metalanguage in linguistics). What is narrow is its answer, which is always one of four marks; the model's own size does not decide it. It is an exemplar in [ungli](https://ungli.syntax.prayasabhinav.net), the builder for NSMnum, and part of [SYNTAX](https://syntax.prayasabhinav.net).
 
 ## Use it
 
